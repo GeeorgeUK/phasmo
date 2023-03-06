@@ -149,7 +149,7 @@ langs.en = { // Property here should match this language name
 			"Can hunt at 40% sanity",
 			"Increased chance for DOTS and Ghost Writing",
 			"33% for unique spirit box sound (breathing). Must be within 1m of ghost",
-			"Nightmare mode: spirit box is guaranteed",
+			"Nightmare / insanity mode: spirit box is guaranteed",
 			"When smudged, ghost retains current speed, unless moving at over 3m/s, where it slows to base player speed for smudge duration",
 		],
 		ghost_goryo:							"Goryo",
@@ -157,7 +157,7 @@ langs.en = { // Property here should match this language name
 			"Won't show DOTS with people in the ghost room",
 			"DOTS can only be observed through a camera",
       "Cannot change favourite room or roam long distances",
-			"Nightmare mode: DOTS are guaranteed",
+			"Nightmare / insanity mode: DOTS are guaranteed",
 		],
 		ghost_hantu:							"Hantu",
 		ghost_hantu_useful:				[
@@ -166,7 +166,7 @@ langs.en = { // Property here should match this language name
 			"Speed never ramps during hunt; moves slower in warm rooms, faster in cold",
 			"Moves just slower than player speed at 15&deg;C; speed increases every -3&deg;C (37.4&deg;F) up to 1.7x player speed at 0&deg;C",
 			"Can breathe mist during hunts in rooms below 3&deg;C (37.4&deg;F), or everywhere with breaker off",
-			"Nightmare mode: freezing is guaranteed",
+			"Nightmare / insanity mode: freezing is guaranteed",
 		],
 		ghost_jinn:								"Jinn",
 		ghost_jinn_useful:				[
@@ -198,7 +198,7 @@ langs.en = { // Property here should match this language name
 			"Cursed players' sanity drop rate doubled",
 			"Base hunting speed is faster at lower average sanity; 90% player speed at 50% sanity, 115% at 25% sanity, 135% at 0% sanity",
 			"Smudge stick targeting grace period lasts 2x as long (12s)",
-			"Nightmare mode: spirit box is guaranteed",
+			"Nightmare / insanity mode: spirit box is guaranteed",
 		],
 		ghost_myling:							"Myling",
 		ghost_myling_useful:			[
@@ -211,7 +211,7 @@ langs.en = { // Property here should match this language name
 			"25% chance for fingerprints to have 6 fingers",
 			"Fingerprints can disappear after 50% of normal time",
       "During a hunt, has a 6.66% chance each time it flickers to shapeshift into a different ghost model, and then return back to its original form. Guaranteed to occur at least once per hunt",
-			"Nightmare mode: fingerprints are guaranteed",
+			"Nightmare / insanity mode: fingerprints are guaranteed",
 		],
 		ghost_oni:								"Oni",
 		ghost_oni_useful:					[
